@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample2</string>
+    <string name="title_activity_student_form">StudentForm</string>
+    <string name="title_activity_writer_form">WriterForm</string>
+</resources>
